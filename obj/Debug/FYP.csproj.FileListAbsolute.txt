@@ -1,0 +1,15 @@
+F:\FYP3\FYP\FYP\bin\Debug\FYP.exe.config
+F:\FYP3\FYP\FYP\bin\Debug\FYP.exe
+F:\FYP3\FYP\FYP\bin\Debug\FYP.pdb
+F:\FYP3\FYP\FYP\bin\Debug\InTheHand.Net.Personal.dll
+F:\FYP3\FYP\FYP\bin\Debug\InTheHand.Net.Personal.xml
+F:\FYP3\FYP\FYP\obj\Debug\FYP.csprojResolveAssemblyReference.cache
+F:\FYP3\FYP\FYP\obj\Debug\FYP.MacAddress.resources
+F:\FYP3\FYP\FYP\obj\Debug\FYP.MainApplication.resources
+F:\FYP3\FYP\FYP\obj\Debug\FYP.Properties.Resources.resources
+F:\FYP3\FYP\FYP\obj\Debug\FYP.csproj.GenerateResource.Cache
+F:\FYP3\FYP\FYP\obj\Debug\FYP.exe
+F:\FYP3\FYP\FYP\obj\Debug\FYP.pdb
+F:\FYP3\FYP\FYP\bin\Debug\DocX.dll
+F:\FYP3\FYP\FYP\obj\Debug\FYP.Login.resources
+F:\FYP3\FYP\FYP\obj\Debug\FYP.New_User.resources
